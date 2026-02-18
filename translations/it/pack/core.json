@@ -82,7 +82,7 @@
         "traits": "S.H.I.E.L.D. Soldato."
     },
     {
-        "code": "1011",
+        "code": "01011",
         "flavor": "\"Questo è quello che volevo: aiutare gli innocenti mandando in ospedale i criminali.\"",
         "name": "Spider-Woman",
         "subname": "Jessica Drew",
@@ -148,7 +148,7 @@
         "traits": "Avvocato. Gamma."
     },
     {
-        "code": "1020",
+        "code": "01020",
         "flavor": "\"da questa parte, signori. Vi presento... Hellcat!\"",
         "name": "Hellcat",
         "subname": "Patsy Walker",
@@ -223,7 +223,7 @@
         "traits": "Genio."
     },
     {
-        "code": "1030",
+        "code": "01030",
         "flavor": "\"E' una guerra privata...o tutti possono partecipare?\"",
         "name": "War Machine",
         "subname": "James Rhodes",
@@ -305,7 +305,7 @@
         "traits": "Re. Wakanda."
     },
     {
-        "code": "1041",
+        "code": "01041",
         "flavor": "\"Che fareste mai senza di me, fratello?\"",
         "name": "Shuri",
         "text": "<b>Risposta</b>: Dopo che Shuri è entrata in gioco, cerca nel tuo mazzo 1 miglioria e aggiungila alla tua mano. Mescola il tuo mazzo.",
@@ -342,7 +342,7 @@
         "traits": "Tattica."
     },
     {
-        "code": "1044",
+        "code": "01044",
         "flavor": "\"Fin dai tempi di Bashenga, abbiamo controllato il nostro destino come ben poche altre nazioni sono riuscite a fare.\"",
         "name": "Vibranio"
     },

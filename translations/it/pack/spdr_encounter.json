@@ -31,8 +31,8 @@
     {
         "code": "31031",
         "name": "Bombshell",
-        "traits": "Criminale.",
-        "text": "[star]Suddividi i danni degli attacchi di Bombshell tra tutti i personaggi controllati dal giocatore attaccato il più equamente possibile.\n\n<hr />[star] <b>Boost</b>: Infliggi 1 danno indiretto a ogni giocatore. Esaurisci ogni personaggio danneggiato in questo modo."
+        "text": "[star]Suddividi i danni degli attacchi di Bombshell tra tutti i personaggi controllati dal giocatore attaccato il più equamente possibile.\n\n<hr />[star] <b>Boost</b>: Infliggi 1 danno indiretto a ogni giocatore. Esaurisci ogni personaggio danneggiato in questo modo.",
+        "traits": "Criminale."
     },
     {
         "code": "31032",
@@ -43,8 +43,8 @@
     {
         "code": "31033",
         "name": "Hobgoblin",
-        "traits": "Criminale.",
-        "text": "[star]<b>Interruzione Obbligata:</b> Quando Hobgoblin sta per attaccarti, scarta invece un ammontare di carte dalla cima del mazzo degli incontri pari all'ATT di Hobgoblin. Subisci 1 danno indiretto per ogni icona potenziamento ([boost]) scartata in questo modo.\n"
+        "text": "[star]<b>Interruzione Obbligata:</b> Quando Hobgoblin sta per attaccarti, scarta invece un ammontare di carte dalla cima del mazzo degli incontri pari all'ATT di Hobgoblin. Subisci 1 danno indiretto per ogni icona potenziamento ([boost]) scartata in questo modo.\n",
+        "traits": "Criminale."
     },
     {
         "code": "31034",

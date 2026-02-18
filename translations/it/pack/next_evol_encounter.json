@@ -69,86 +69,86 @@
     {
         "code": "40070a",
         "name": "Arclight",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi 1 personaggio che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi 1 personaggio che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40070b",
         "name": "Arclight",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi il personaggio con più INT che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi il personaggio con più INT che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40071a",
         "name": "Blockbuster",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40071b",
         "name": "Blockbuster",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco e questo attacco ottiene Sopraffazione.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco e questo attacco ottiene Sopraffazione.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40072a",
         "name": "Chimera",
-        "traits": "Marauder. Psionico.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Spendi [mental].\n• Chimera riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Spendi [mental].\n• Chimera riceve +2 ATT per questo attacco.\n",
+        "traits": "Marauder. Psionico."
     },
     {
         "code": "40072b",
         "name": "Chimera",
-        "traits": "Marauder. Psionico.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Spendi [mental][mental].\r\n• Chimera riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Spendi [mental][mental].\r\n• Chimera riceve +2 ATT per questo attacco.\n",
+        "traits": "Marauder. Psionico."
     },
     {
         "code": "40073a",
         "name": "Greycrow",
-        "traits": "Marauder. Mercenario.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Scarta la carta dal costo più alto che controlli.\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Scarta la carta dal costo più alto che controlli.\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n",
+        "traits": "Marauder. Mercenario."
     },
     {
         "code": "40073b",
         "name": "Greycrow",
-        "traits": "Marauder. Mercenario.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Scarta ogni carta dal costo più alto che controlli.\r\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Scarta ogni carta dal costo più alto che controlli.\r\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n",
+        "traits": "Marauder. Mercenario."
     },
     {
         "code": "40074a",
         "name": "Harpoon",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 2 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 2 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40074b",
         "name": "Harpoon",
-        "traits": "Bruto. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 3 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco. Questo attacco ottiene Sopraffazione.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 3 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco. Questo attacco ottiene Sopraffazione.\n",
+        "traits": "Bruto. Marauder."
     },
     {
         "code": "40075a",
         "name": "Riptide",
-        "traits": "Assassino. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 2 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 2 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco.\n",
+        "traits": "Assassino. Marauder."
     },
     {
         "code": "40075b",
         "name": "Riptide",
-        "traits": "Assassino. Marauder.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 3 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco e questo attacco ottiene Distanza e Perforante.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 3 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco e questo attacco ottiene Distanza e Perforante.\n",
+        "traits": "Assassino. Marauder."
     },
     {
         "code": "40076a",
         "name": "Vertigo",
-        "traits": "Marauder. Mutato.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci 1 personaggio che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci 1 personaggio che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n",
+        "traits": "Marauder. Mutato."
     },
     {
         "code": "40076b",
         "name": "Vertigo",
-        "traits": "Marauder. Mutato.",
-        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci il personaggio con più ATT che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n"
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci il personaggio con più ATT che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n",
+        "traits": "Marauder. Mutato."
     },
     {
         "back_text": "<b>Contenuto</b>: Ogni criminale Marauder sul lato A <i>(lato B invece per la modalità esperto)</i>. Set di incontri L'Assedio dei Morlock e Standard. 2 set di incontri modulari <i>(Grado Militare e Assassini di Mutanti)</i>.\n<b>Preparazione</b>: Metti in gioco l'ambiente Respinti. Metti da parte l'insidia Nascondetevi! e ogni alleato Morlock. Mescola i criminali <i>(senza guardarli)</i> per comporre il mazzo dei criminali. La carta in cima a questo mazzo è in gioco.",

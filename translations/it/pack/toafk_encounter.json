@@ -185,8 +185,8 @@
     {
         "code": "11031",
         "name": "Soldato Chitauro",
-        "traits": "Soldato. Temporale.",
-        "text": "[star]<b>Interruzione Obbligata:</b> Quando Soldato Chitauro ti attacca, scarta 1 carta dalla cima del mazzo degli incontri → subisci un ammontare di danni indiretti pari al numero di icone potenziamento sulla carta scartata.\n"
+        "text": "[star]<b>Interruzione Obbligata:</b> Quando Soldato Chitauro ti attacca, scarta 1 carta dalla cima del mazzo degli incontri → subisci un ammontare di danni indiretti pari al numero di icone potenziamento sulla carta scartata.\n",
+        "traits": "Soldato. Temporale."
     },
     {
         "code": "11032",

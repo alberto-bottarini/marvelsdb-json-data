@@ -664,10 +664,10 @@
     },
     {
         "code": "45142",
+        "flavor": "\"Unglaublich! Non ci vedo!\" — Nightcrawler",
         "name": "Manta",
         "text": "Lavoro di Squadra ([[GUARDIA IMPERIALE]]).\n<b>Quando Rivelata</b>: Sei stordito. Se eri già stordito, risolvi la capacità \"<b>Speciale</b>\" sull'ambiente [[SCENA]]..",
-        "traits": "Guardia Imperiale.",
-        "flavor": "\"Unglaublich! Non ci vedo!\" — Nightcrawler"
+        "traits": "Guardia Imperiale."
     },
     {
         "code": "45143",

@@ -7,8 +7,8 @@
     {
         "code": "21027",
         "name": "Uomo Radioattivo",
-        "traits": "Elite. Genio.",
-        "text": "[star]<b>Risposta Obbligata</b>: Dopo che Uomo Radioattivo si è attivato contro di te, infliggi 1 danno a ogni personaggio che controlli.\n\n<hr />[star] <b>Boost</b>: <b>Potenziamento</b>: Infliggi 1 danno a ogni personaggio che controlli."
+        "text": "[star]<b>Risposta Obbligata</b>: Dopo che Uomo Radioattivo si è attivato contro di te, infliggi 1 danno a ogni personaggio che controlli.\n\n<hr />[star] <b>Boost</b>: <b>Potenziamento</b>: Infliggi 1 danno a ogni personaggio che controlli.",
+        "traits": "Elite. Genio."
     },
     {
         "code": "21028",

@@ -139,8 +139,8 @@
         "code": "24024",
         "flavor": "\"Nessuno può riuscire a evitare i miei diabolici dischi!\"",
         "name": "Controllore",
-        "traits": "Banda di Crossfire. Bruto.",
-        "text": "[star]<b>Interruzione Obbligata:</b> Quando l'attacco del Controllore sta per infliggere un qualsiasi ammontare di danni a un personaggio, aumenta quell'ammontare di un numero pari all'ATT di quel personaggio.\n"
+        "text": "[star]<b>Interruzione Obbligata:</b> Quando l'attacco del Controllore sta per infliggere un qualsiasi ammontare di danni a un personaggio, aumenta quell'ammontare di un numero pari all'ATT di quel personaggio.\n",
+        "traits": "Banda di Crossfire. Bruto."
     },
     {
         "code": "24025",
@@ -242,14 +242,14 @@
     {
         "code": "24043",
         "name": "Scarabeo",
-        "traits": "Malvivente.",
-        "text": "[star]<b>Risposta Obbligata:</b> Dopo che Scarabeo ti ha attaccato e danneggiato, scarta la miglioria dal costo più basso che controlli.\n\n<hr />[star] <b>Boost</b>: Scegli e scarta 1 miglioria che controlli."
+        "text": "[star]<b>Risposta Obbligata:</b> Dopo che Scarabeo ti ha attaccato e danneggiato, scarta la miglioria dal costo più basso che controlli.\n\n<hr />[star] <b>Boost</b>: Scegli e scarta 1 miglioria che controlli.",
+        "traits": "Malvivente."
     },
     {
         "code": "24044",
         "name": "Boomerang",
-        "traits": "Malvivente. Signore del Male.",
-        "text": "[star]<b>Risposta Obbligata:</b> Dopo che Boomerang ti ha attaccato, infliggi 1 danno a ogni alleato che controlli.\n\n<hr />[star] <b>Boost</b>: Infliggi 2 danni a un alleato che controlli."
+        "text": "[star]<b>Risposta Obbligata:</b> Dopo che Boomerang ti ha attaccato, infliggi 1 danno a ogni alleato che controlli.\n\n<hr />[star] <b>Boost</b>: Infliggi 2 danni a un alleato che controlli.",
+        "traits": "Malvivente. Signore del Male."
     },
     {
         "code": "24045",
@@ -266,8 +266,8 @@
     {
         "code": "24047",
         "name": "Coniglia Bianca",
-        "traits": "Malvivente.",
-        "text": "[star]<b>Interruzione Obbligata:</b> Quando Coniglia Bianca ti attacca, scarta 1 carta casuale dalla tua mano.\n\n<hr />[star] <b>Boost</b>: Scegli e scarta 1 carta del set eroe dalla tua mano."
+        "text": "[star]<b>Interruzione Obbligata:</b> Quando Coniglia Bianca ti attacca, scarta 1 carta casuale dalla tua mano.\n\n<hr />[star] <b>Boost</b>: Scegli e scarta 1 carta del set eroe dalla tua mano.",
+        "traits": "Malvivente."
     },
     {
         "code": "24048",
