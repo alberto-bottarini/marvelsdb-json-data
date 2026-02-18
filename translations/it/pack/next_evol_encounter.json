@@ -17,24 +17,21 @@
         "text": "Il giocatore Cable non può rimuovere minacce da trame diverse da Ritorno al Futuro. Gli altri giocatori non possono rimuovere minacce da Ritorno al Futuro.\nIl giocatore Cable non può danneggiare i nemici non impegnati con lui. Gli altri giocatori non possono danneggiare i gregari impegnati con Cable."
     },
     {
-        "boost_text": "Assegna questa carta al nemico che si sta attivando.",
         "code": "40034",
         "name": "Campo di Forza Telecinetico",
-        "text": "Assegna a Stryfe. Se non puoi farlo, assegna al criminale.\n<b>Interruzione Obbligata</b>: Quando il personaggio con questa aggiunta sta per subire un qualsiasi ammontare di danni, previene tutti quei danni. Se 2 o più danni sono stati prevenuti in questo modo, scarta questa carta.",
+        "text": "Assegna a Stryfe. Se non puoi farlo, assegna al criminale.\n<b>Interruzione Obbligata</b>: Quando il personaggio con questa aggiunta sta per subire un qualsiasi ammontare di danni, previene tutti quei danni. Se 2 o più danni sono stati prevenuti in questo modo, scarta questa carta.\n<hr />[star] <b>Boost</b>: Assegna questa carta al nemico che si sta attivando.",
         "traits": "Psionico."
     },
     {
-        "boost_text": "Sei confuso.",
         "code": "40035",
         "name": "Scansione Mentale",
-        "text": "<b>Quando Rivelata</b>: Colloca 2 minacce sulla trama principale. Colloca 1 minaccia aggiuntiva sulla trama principale per ogni trama secondaria nella galleria delle vittorie.",
+        "text": "<b>Quando Rivelata</b>: Colloca 2 minacce sulla trama principale. Colloca 1 minaccia aggiuntiva sulla trama principale per ogni trama secondaria nella galleria delle vittorie.\n<hr />[star] <b>Boost</b>: Sei confuso.",
         "traits": "Psionico."
     },
     {
-        "boost_text": "Sei stordito.",
         "code": "40036",
         "name": "Scarica Telecinetica",
-        "text": "<b>Quando Rivelata</b>: Subisci 2 danni. Subisci 1 danno aggiuntivo per ogni trama secondaria nella galleria delle vittorie.",
+        "text": "<b>Quando Rivelata</b>: Subisci 2 danni. Subisci 1 danno aggiuntivo per ogni trama secondaria nella galleria delle vittorie.\n<hr />[star] <b>Boost</b>: Sei stordito.",
         "traits": "Psionico."
     },
     {
@@ -57,11 +54,10 @@
         "text": "<b>Quando Rivelata</b>: Ogni giocatore sceglie se subire 1 danno oppure collocare 2 minacce su questa carta."
     },
     {
-        "boost_text": "[star] Prototipo riceve +1 punti ferita per ogni gettone fortuna su di lui.",
         "code": "40068",
         "flavor": "La buona sorte di Domino è la disgrazia di Prototipo, e la sua sofferenza non fa che renderlo più forte.",
         "name": "Prototipo",
-        "text": "<b>Quando Rivelata</b>: Colloca un numero di gettoni fortuna su Prototipo pari all'ammontare di danni sostenuti dalla tua identità.",
+        "text": "<b>Quando Rivelata</b>: Colloca un numero di gettoni fortuna su Prototipo pari all'ammontare di danni sostenuti dalla tua identità.\n<hr />[star] <b>Boost</b>: [star] Prototipo riceve +1 punti ferita per ogni gettone fortuna su di lui.",
         "traits": "Mutante."
     },
     {
@@ -71,88 +67,88 @@
         "traits": "Condizione."
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi 1 personaggio che controlli.\n• Arclight riceve +2 ATT per questo attacco.",
         "code": "40070a",
         "name": "Arclight",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi 1 personaggio che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi il personaggio con più INT che controlli.\n• Arclight riceve +2 ATT per questo attacco.",
         "code": "40070b",
         "name": "Arclight",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Arclight attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Confondi il personaggio con più INT che controlli.\n• Arclight riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco.",
         "code": "40071a",
         "name": "Blockbuster",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco e questo attacco ottiene Sopraffazione.",
         "code": "40071b",
         "name": "Blockbuster",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Blockbuster attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Irrobustisci Blockbuster.\n• Blockbuster riceve +2 ATT per questo attacco e questo attacco ottiene Sopraffazione.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Spendi [mental].\n• Chimera riceve +2 ATT per questo attacco.",
         "code": "40072a",
         "name": "Chimera",
-        "traits": "Marauder. Psionico."
+        "traits": "Marauder. Psionico.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Spendi [mental].\n• Chimera riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Spendi [mental][mental].\r\n• Chimera riceve +2 ATT per questo attacco.",
         "code": "40072b",
         "name": "Chimera",
-        "traits": "Marauder. Psionico."
+        "traits": "Marauder. Psionico.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Chimera attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Spendi [mental][mental].\r\n• Chimera riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Scarta la carta dal costo più alto che controlli.\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.",
         "code": "40073a",
         "name": "Greycrow",
-        "traits": "Marauder. Mercenario."
+        "traits": "Marauder. Mercenario.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Scarta la carta dal costo più alto che controlli.\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Scarta ogni carta dal costo più alto che controlli.\r\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.",
         "code": "40073b",
         "name": "Greycrow",
-        "traits": "Marauder. Mercenario."
+        "traits": "Marauder. Mercenario.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Greycrow attacca te o un alleato che controlli, scegli 1 effetto tra:\r\n• Scarta ogni carta dal costo più alto che controlli.\r\n• Greycrow riceve +X ATT per questo attacco, dove X è pari al costo stampato della carta dal costo più alto che controlli.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 2 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco.",
         "code": "40074a",
         "name": "Harpoon",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 2 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 3 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco. Questo attacco ottiene Sopraffazione.",
         "code": "40074b",
         "name": "Harpoon",
-        "traits": "Bruto. Marauder."
+        "traits": "Bruto. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Harpoon attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Subisci 3 danni indiretti.\n• Fai ricevere a Harpoon 1 carta potenziamento a faccia in giù aggiuntiva per questo attacco. Questo attacco ottiene Sopraffazione.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 2 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco.",
         "code": "40075a",
         "name": "Riptide",
-        "traits": "Assassino. Marauder."
+        "traits": "Assassino. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 2 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 3 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco e questo attacco ottiene Distanza e Perforante.",
         "code": "40075b",
         "name": "Riptide",
-        "traits": "Assassino. Marauder."
+        "traits": "Assassino. Marauder.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Riptide attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Colloca 3 minacce sulla trama principale e 1 minaccia su ogni trama secondaria.\n• Riptide riceve +2 ATT per questo attacco e questo attacco ottiene Distanza e Perforante.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci 1 personaggio che controlli.\n• Vertigo riceve +2 ATT per questo attacco.",
         "code": "40076a",
         "name": "Vertigo",
-        "traits": "Marauder. Mutato."
+        "traits": "Marauder. Mutato.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci 1 personaggio che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n"
     },
     {
-        "attack_text": "<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci il personaggio con più ATT che controlli.\n• Vertigo riceve +2 ATT per questo attacco.",
         "code": "40076b",
         "name": "Vertigo",
-        "traits": "Marauder. Mutato."
+        "traits": "Marauder. Mutato.",
+        "text": "[star]<b>Interruzione Obbligata</b>: Quando Vertigo attacca te o un alleato che controlli, scegli 1 effetto tra:\n• Stordisci il personaggio con più ATT che controlli.\n• Vertigo riceve +2 ATT per questo attacco.\n"
     },
     {
         "back_text": "<b>Contenuto</b>: Ogni criminale Marauder sul lato A <i>(lato B invece per la modalità esperto)</i>. Set di incontri L'Assedio dei Morlock e Standard. 2 set di incontri modulari <i>(Grado Militare e Assassini di Mutanti)</i>.\n<b>Preparazione</b>: Metti in gioco l'ambiente Respinti. Metti da parte l'insidia Nascondetevi! e ogni alleato Morlock. Mescola i criminali <i>(senza guardarli)</i> per comporre il mazzo dei criminali. La carta in cima a questo mazzo è in gioco.",
@@ -173,10 +169,9 @@
         "traits": "Morlock. Mutante."
     },
     {
-        "boost_text": "Irrobustisci 1 alleato [[MORLOCK]]. Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione.",
         "code": "40080",
         "name": "Nascondetevi!",
-        "text": "Impulso.\n<b>Quando Rivelata</b>: Irrobustisci 1 alleato [[MORLOCK]]."
+        "text": "Impulso.\n<b>Quando Rivelata</b>: Irrobustisci 1 alleato [[MORLOCK]].\n<hr />[star] <b>Boost</b>: Irrobustisci 1 alleato [[MORLOCK]]. Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione."
     },
     {
         "code": "40081a",
@@ -189,10 +184,9 @@
         "text": "<b>Solo Modalità Esperto.</b>\nLe carte sotto questa carta non sono in gioco. Il criminale ottiene Ritorsione 1 per ogni carta sotto questa carta.\n<b>Risposta Obbligata</b>: Dopo che il criminale è stato sconfitto, collocalo sotto questa carta. Scarta ogni gregario con lo stesso nome del criminale in cima al mazzo dei criminali <i>(quel criminale è in gioco)</i>. Il criminale si attiva contro ogni giocatore in ordine di gioco."
     },
     {
-        "boost_text": "Questa carta riceve +X icone potenziamento ([boost]), dove X è pari al numero di criminali sotto Respinti.",
         "code": "40082",
         "name": "Potere della Furia",
-        "text": "Assegna al criminale.\n<b>Azione Eroe</b>: Esaurisci 1 personaggio che controlli e spendi X risorse di qualsiasi tipo, dove X è pari al numero di criminali sotto Respinti → scarta questa carta.",
+        "text": "Assegna al criminale.\n<b>Azione Eroe</b>: Esaurisci 1 personaggio che controlli e spendi X risorse di qualsiasi tipo, dove X è pari al numero di criminali sotto Respinti → scarta questa carta.\n<hr />[star] <b>Boost</b>: Questa carta riceve +X icone potenziamento ([boost]), dove X è pari al numero di criminali sotto Respinti.",
         "traits": "Condizione."
     },
     {
@@ -222,16 +216,14 @@
         "text": "Assalto. <i>(Gli interventi base contro questa trama usano l'ATT invece dell'INT.)</i>\n<b>Quando Rivelata</b>: Colloca 1[per_hero] minacce aggiuntive su questa carta per ogni criminale sotto Respinti."
     },
     {
-        "boost_text": "Se controlli alleati Morlock, scegli se infliggere 1 danno a uno di essi oppure spendere 1 risorsa di qualsiasi tipo.",
         "code": "40088",
         "name": "Di Nuovo in Azione",
-        "text": "<b>Quando Rivelata</b>: Irrobustisci il criminale. Colloca sulla trama principale un ammontare di minacce pari al numero di criminali sotto Respinti."
+        "text": "<b>Quando Rivelata</b>: Irrobustisci il criminale. Colloca sulla trama principale un ammontare di minacce pari al numero di criminali sotto Respinti.\n<hr />[star] <b>Boost</b>: Se controlli alleati Morlock, scegli se infliggere 1 danno a uno di essi oppure spendere 1 risorsa di qualsiasi tipo."
     },
     {
-        "boost_text": "Se questa attivazione è un attacco, questo attacco ottiene Sopraffazione.",
         "code": "40089",
         "name": "A Caccia di Deboli",
-        "text": "<b>Quando Rivelata (Alter Ego)</b>: Questa carta ottiene Impulso.\n<b>Quando Rivelata (Eroe)</b>: Il criminale ti attacca. Se ci sono 1 o più criminali sotto Respinti, questo attacco ottiene Sopraffazione."
+        "text": "<b>Quando Rivelata (Alter Ego)</b>: Questa carta ottiene Impulso.\n<b>Quando Rivelata (Eroe)</b>: Il criminale ti attacca. Se ci sono 1 o più criminali sotto Respinti, questo attacco ottiene Sopraffazione.\n<hr />[star] <b>Boost</b>: Se questa attivazione è un attacco, questo attacco ottiene Sopraffazione."
     },
     {
         "code": "40090",
@@ -367,31 +359,27 @@
         "text": "<b>Quando Rivelata</b>: Scegli 1 effetto tra:\n• Ogni gregario [[MARAUDER]] impegnato con te si attiva contro di te.\n• Scarta 7 carte dalla cima del mazzo degli incontri. Metti in gioco impegnato con te il primo gregario [[MARAUDER]] dalla cima della pila degli scarti degli incontri."
     },
     {
-        "boost_text": "Esaurisci 1 personaggio che controlli.",
         "code": "40112",
         "name": "George il Bello",
-        "text": "Lavoro di Squadra ([[RAGAZZACCIO]]).\n[star] <b>Interruzione Obbligata</b>: Quando George il Bello ti attacca, ti esaurisci 1 personaggio che controlli.",
+        "text": "Lavoro di Squadra ([[RAGAZZACCIO]]).\n[star] <b>Interruzione Obbligata</b>: Quando George il Bello ti attacca, ti esaurisci 1 personaggio che controlli.\n<hr />[star] <b>Boost</b>: Esaurisci 1 personaggio che controlli.",
         "traits": "Ragazzaccio."
     },
     {
-        "boost_text": "Dopo questa attivazione, mescola Palla di Pelo nel mazzo degli incontri.",
         "code": "40113",
         "name": "Palla di Pelo",
-        "text": "Impulso. Lavoro di Squadra ([[RAGAZZACCIO]]).",
+        "text": "Impulso. Lavoro di Squadra ([[RAGAZZACCIO]]).\n<hr />[star] <b>Boost</b>: Dopo questa attivazione, mescola Palla di Pelo nel mazzo degli incontri.",
         "traits": "Ragazzaccio."
     },
     {
-        "boost_text": "Se il criminale sta attaccando, questo attacco ottiene Perforante.",
         "code": "40114",
         "name": "Ramrod",
-        "text": "Ritorsione 1. Lavoro di Squadra ([[RAGAZZACCIO]]).\n[star] Gli attacchi di Ramrod ottengono Perforante.",
+        "text": "Ritorsione 1. Lavoro di Squadra ([[RAGAZZACCIO]]).\n[star] Gli attacchi di Ramrod ottengono Perforante.\n<hr />[star] <b>Boost</b>: Se il criminale sta attaccando, questo attacco ottiene Perforante.",
         "traits": "Ragazzaccio."
     },
     {
-        "boost_text": "Sei stordito.",
         "code": "40115",
         "name": "Ruckus",
-        "text": "Lavoro di Squadra ([[RAGAZZACCIO]]).\n<b>Quando Rivelata</b>: Stordisci ogni personaggio che controlli.",
+        "text": "Lavoro di Squadra ([[RAGAZZACCIO]]).\n<b>Quando Rivelata</b>: Stordisci ogni personaggio che controlli.\n<hr />[star] <b>Boost</b>: Sei stordito.",
         "traits": "Ragazzaccio."
     },
     {
@@ -406,25 +394,22 @@
         "text": "Ogni gregario riceve +1 ATT.\n<b>Quando Rivelata</b>: Colloca 1 minaccia su questa carta per ogni gregario in gioco (2 minacce invece per ogni gregario [[RAGAZZACCIO]]). Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri 1 gregario [[RAGAZZACCIO]] e rivelalo. <i>(Mescola.)</i>"
     },
     {
-        "attack_text": "Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.",
         "code": "40118",
         "flavor": "\"Niente e nessuno può battermi!\"",
         "name": "Fenomeno",
-        "text": "<b>Quando Rivelata</b>: Colloca 1 gettone slancio su questa carta. Irrobustisci Fenomeno.",
+        "text": "[star]Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.\n<b>Quando Rivelata</b>: Colloca 1 gettone slancio su questa carta. Irrobustisci Fenomeno.",
         "traits": "Bruto."
     },
     {
-        "attack_text": "Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.",
         "code": "40119",
         "name": "Fenomeno",
-        "text": "<b>Quando Rivelata</b>: Colloca 1 gettone slancio su questa carta. Se Fenomeno Vulnerabile è in gioco, girala. Altrimenti, irrobustisci Fenomeno.",
+        "text": "[star]Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.\n<b>Quando Rivelata</b>: Colloca 1 gettone slancio su questa carta. Se Fenomeno Vulnerabile è in gioco, girala. Altrimenti, irrobustisci Fenomeno.",
         "traits": "Bruto."
     },
     {
-        "attack_text": "Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.",
         "code": "40120",
         "name": "Fenomeno",
-        "text": "<b>Quando Rivelata</b>: Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri Avanti Tutta! e rivelala. <i>(Mescola.)</i> Se Fenomeno Vulnerabile è in gioco, girala. Altrimenti, irrobustisci Fenomeno.",
+        "text": "[star]Fenomeno riceve +1 ATT per ogni gettone slancio su questa carta.\n<b>Quando Rivelata</b>: Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri Avanti Tutta! e rivelala. <i>(Mescola.)</i> Se Fenomeno Vulnerabile è in gioco, girala. Altrimenti, irrobustisci Fenomeno.",
         "traits": "Bruto."
     },
     {
@@ -461,22 +446,19 @@
         "text": "<b>Quando Rivelata</b>: Scegli 1 effetto tra:\n• Subisci un ammontare di danni pari all'ATT di Fenomeno.\n• Scarta la miglioria o il supporto dal costo più alto che controlli."
     },
     {
-        "boost_text": "Irrobustisci Fenomeno",
         "code": "40126",
         "name": "Spiaccicare",
-        "text": "<b>Quando Rivelata</b>: Scegli se subire un ammontare di danni pari all'ATT di Fenomeno oppure collocare 1 gettone slancio su di lui."
+        "text": "<b>Quando Rivelata</b>: Scegli se subire un ammontare di danni pari all'ATT di Fenomeno oppure collocare 1 gettone slancio su di lui.\n<hr />[star] <b>Boost</b>: Irrobustisci Fenomeno"
     },
     {
-        "boost_text": "Subisci 1 danno indiretto.",
         "code": "40127",
         "name": "Schianto Tellurico",
-        "text": "<b>Quando Rivelata</b>: Come gruppo, i giocatori subiscono un totale di danni indiretti pari all'ATT di Fenomeno."
+        "text": "<b>Quando Rivelata</b>: Come gruppo, i giocatori subiscono un totale di danni indiretti pari all'ATT di Fenomeno.\n<hr />[star] <b>Boost</b>: Subisci 1 danno indiretto."
     },
     {
-        "boost_text": "Infliggi 1 danno a un alleato che controlli.",
         "code": "40128",
         "name": "Travolgimento",
-        "text": "<b>Quando Rivelata (Alter Ego)</b>: Subisci 2 danni indiretti.\n<b>Quando Rivelata (Eroe)</b>: Fenomeno attacca l'alleato con meno punti ferita rimanenti."
+        "text": "<b>Quando Rivelata (Alter Ego)</b>: Subisci 2 danni indiretti.\n<b>Quando Rivelata (Eroe)</b>: Fenomeno attacca l'alleato con meno punti ferita rimanenti.\n<hr />[star] <b>Boost</b>: Infliggi 1 danno a un alleato che controlli."
     },
     {
         "code": "40129",
@@ -502,11 +484,9 @@
         "traits": "Criminale. Elite."
     },
     {
-        "attack_text": "<b>Risposta Obbligata</b>: Dopo che Salice Strisciante ha attaccato e danneggiato un personaggio, stordisci quel personaggio.",
-        "boost_text": "Sei stordito.",
         "code": "40133",
         "name": "Salice Strisciante",
-        "text": "Colpo Rapido. Guardia.",
+        "text": "[star]<b>Risposta Obbligata</b>: Dopo che Salice Strisciante ha attaccato e danneggiato un personaggio, stordisci quel personaggio.\nColpo Rapido. Guardia.\n<hr />[star] <b>Boost</b>: Sei stordito.",
         "traits": "Legno."
     },
     {
@@ -578,10 +558,9 @@
         "traits": "Condizione."
     },
     {
-        "boost_text": "Per questa attivazione, Sinistro riceve +1 TRA e +1 ATT per ogni aggiunta [[SUPERPOTERE]] su di lui.",
         "code": "40145",
         "name": "Soldato di Sinistro",
-        "text": "[star] Soldato di Sinistro riceve +1 TRA e +1 ATT per ogni aggiunta [[SUPERPOTERE]] su Sinistro.",
+        "text": "[star] Soldato di Sinistro riceve +1 TRA e +1 ATT per ogni aggiunta [[SUPERPOTERE]] su Sinistro.\n<hr />[star] <b>Boost</b>: Per questa attivazione, Sinistro riceve +1 TRA e +1 ATT per ogni aggiunta [[SUPERPOTERE]] su di lui.",
         "traits": "Clone."
     },
     {
@@ -595,22 +574,19 @@
         "text": "<b>Quando Rivelata</b>: Se Sinistro possiede il tratto:\n• [[AEREO]], subisci 2 danni indiretti.\n• [[BRUTO]], esaurisci la tua identità.\n• [[PSIONICO]], colloca 2 minacce sulla trama principale."
     },
     {
-        "boost_text": "Irrobustici Sinistro.",
         "code": "40148",
         "name": "Controllo Molecolare ",
-        "text": "<b>Quando Rivelata</b>: Irrobustisci Sinistro. Se possiede il tratto [[BRUTO]], si cura 4 danni."
+        "text": "<b>Quando Rivelata</b>: Irrobustisci Sinistro. Se possiede il tratto [[BRUTO]], si cura 4 danni.\n<hr />[star] <b>Boost</b>: Irrobustici Sinistro."
     },
     {
-        "boost_text": "Sei confuso.",
         "code": "40149",
         "name": "Sinistre Trame",
-        "text": "<b>Quando Rivelata</b>: Sinistro trama. Se possiede il tratto [[PSIONICO]], sei confuso."
+        "text": "<b>Quando Rivelata</b>: Sinistro trama. Se possiede il tratto [[PSIONICO]], sei confuso.\n<hr />[star] <b>Boost</b>: Sei confuso."
     },
     {
-        "boost_text": "Sei stordito.",
         "code": "40150",
         "name": "Sinistro Assalto",
-        "text": "<b>Quando Rivelata (Alter Ego)</b>: Questa carta ottiene Impulso.\n<b>Quando Rivelata (Eroe)</b>: Sinistro ti attacca. Se possiede il tratto [[AEREO]], sei stordito."
+        "text": "<b>Quando Rivelata (Alter Ego)</b>: Questa carta ottiene Impulso.\n<b>Quando Rivelata (Eroe)</b>: Sinistro ti attacca. Se possiede il tratto [[AEREO]], sei stordito.\n<hr />[star] <b>Boost</b>: Sei stordito."
     },
     {
         "code": "40151",
@@ -631,10 +607,9 @@
         "traits": "Condizione."
     },
     {
-        "boost_text": "Se il criminale sta attaccando, questo attacco ottiene Perforante.",
         "code": "40154",
         "name": "Posizione Sopraelevata",
-        "text": "<b>Quando Rivelata</b>: Scarta ogni carta status Robusto da ogni personaggio amico. Come gruppo, i giocatori subiscono un totale di 2 danni indiretti (4 danni indiretti se invece il criminale possiede il tratto [[BRUTO]])."
+        "text": "<b>Quando Rivelata</b>: Scarta ogni carta status Robusto da ogni personaggio amico. Come gruppo, i giocatori subiscono un totale di 2 danni indiretti (4 danni indiretti se invece il criminale possiede il tratto [[BRUTO]]).\n<hr />[star] <b>Boost</b>: Se il criminale sta attaccando, questo attacco ottiene Perforante."
     },
     {
         "code": "40155",
@@ -676,10 +651,9 @@
         "text": "Gli alleati che controlli non possono ripristinarsi.\n<b>Quando Rivelata</b>: Esaurisci ogni alleato che controlli. Se non sono stati esauriti alleati in questo modo, questa carta ottiene Impulso.\n<b>Azione Alter Ego</b>: Spendi [mental][mental] → scarta questa carta."
     },
     {
-        "boost_text": "Se il criminale sta attaccando, questo attacco ottiene Sopraffazione.",
         "code": "40162",
         "name": "Un Passo Avanti",
-        "text": "<b>Quando Rivelata</b>: Scarta 1 carta casuale dalla tua mano (2 carte casuali se invece il criminale possiede il tratto [[AEREO]])."
+        "text": "<b>Quando Rivelata</b>: Scarta 1 carta casuale dalla tua mano (2 carte casuali se invece il criminale possiede il tratto [[AEREO]]).\n<hr />[star] <b>Boost</b>: Se il criminale sta attaccando, questo attacco ottiene Sopraffazione."
     },
     {
         "code": "40163",
@@ -778,17 +752,15 @@
         "text": "<b>Quando Rivelata</b>: Scarta X carte dalla cima del mazzo degli incontri, dove X è pari al numero di carte del tipo più comune nella tua mano. Distribuisci ogni carta [[PSIONICO]] scartata in questo modo come carta incontro a faccia in giù a te stesso."
     },
     {
-        "boost_text": "Scarta 1 carta dalla tua mano. Poi pesca 1 carta.",
         "code": "40178",
         "name": "Sovrascrittura Psichica",
-        "text": "<b>Quando Rivelata</b>: Scegli 1 tipo di carta, poi scarta ogni carta che non è del tipo scelto dalla tua mano. Pesca fino al tuo limite di mano. Colloca 1 minaccia sulla trama principale per ogni carta del tipo scelto nella tua mano.",
+        "text": "<b>Quando Rivelata</b>: Scegli 1 tipo di carta, poi scarta ogni carta che non è del tipo scelto dalla tua mano. Pesca fino al tuo limite di mano. Colloca 1 minaccia sulla trama principale per ogni carta del tipo scelto nella tua mano.\n<hr />[star] <b>Boost</b>: Scarta 1 carta dalla tua mano. Poi pesca 1 carta.",
         "traits": "Psionico."
     },
     {
-        "boost_text": "Se hai 3 o più carte dello stesso tipo nella tua mano, colloca 3 minacce sulla trama principale.",
         "code": "40179",
         "name": "Ondata Telecinetica",
-        "text": "<b>Quando Rivelata</b>: Rimetti nella tua mano 1 miglioria o supporto che controlli. Stryfe si attiva contro di te.",
+        "text": "<b>Quando Rivelata</b>: Rimetti nella tua mano 1 miglioria o supporto che controlli. Stryfe si attiva contro di te.\n<hr />[star] <b>Boost</b>: Se hai 3 o più carte dello stesso tipo nella tua mano, colloca 3 minacce sulla trama principale.",
         "traits": "Psionico."
     },
     {
@@ -851,10 +823,9 @@
         "text": "Assalto. <i>(Gli interventi base contro questa trama usano l'ATT invece dell'INT.)</i>\nOgni gregario ottiene Robustezza.\n<b>Quando Rivelata</b>: Colloca 2 minacce aggiuntive su questa carta per ogni personaggio [[FRONTE DI LIBERAZIONE MUTANTI]] in gioco. Se nessuna minaccia aggiuntiva è stata collocata in questo modo, questa carta ottiene Impulso."
     },
     {
-        "boost_text": "Scarta 1 evento dalla tua mano.",
         "code": "40198",
         "name": "Lady Mastermind",
-        "text": "Impulso.\n<b>Quando Rivelata</b>: Subisci X danni, dove X è pari al costo stampato dal costo più alto dell'evento nella tua mano.",
+        "text": "Impulso.\n<b>Quando Rivelata</b>: Subisci X danni, dove X è pari al costo stampato dal costo più alto dell'evento nella tua mano.\n<hr />[star] <b>Boost</b>: Scarta 1 evento dalla tua mano.",
         "traits": "Marauder."
     },
     {
@@ -871,22 +842,19 @@
         "traits": "Marauder."
     },
     {
-        "boost_text": "Rimetti nella tua mano il supporto dal costo più alto che controlli.",
         "code": "40201",
         "name": "Svanitore",
-        "text": "Impulso.\n<b>Quando Rivelata</b>: Rimetti nella tua mano il supporto dal costo più alto che controlli.",
+        "text": "Impulso.\n<b>Quando Rivelata</b>: Rimetti nella tua mano il supporto dal costo più alto che controlli.\n<hr />[star] <b>Boost</b>: Rimetti nella tua mano il supporto dal costo più alto che controlli.",
         "traits": "Marauder."
     },
     {
-        "boost_text": "Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione.",
         "code": "40202",
         "name": "Sotto Pressione",
-        "text": "Impulso."
+        "text": "Impulso.\n<hr />[star] <b>Boost</b>: Fai ricevere 1 carta potenziamento aggiuntiva al criminale per questa attivazione."
     },
     {
-        "boost_text": "Scegli se scartare 1 carta risorsa dalla tua mano oppure subire 2 danni.",
         "code": "40203",
         "name": "Carico Eccessivo",
-        "text": "Impulso.\n<b>Quando Rivelata</b>: Scegli se scartare 1 carta risorsa dalla tua mano oppure subire 2 danni."
+        "text": "Impulso.\n<b>Quando Rivelata</b>: Scegli se scartare 1 carta risorsa dalla tua mano oppure subire 2 danni.\n<hr />[star] <b>Boost</b>: Scegli se scartare 1 carta risorsa dalla tua mano oppure subire 2 danni."
     }
 ]

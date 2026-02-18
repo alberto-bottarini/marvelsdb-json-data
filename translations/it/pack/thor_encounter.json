@@ -18,10 +18,9 @@
         "traits": "Asgard."
     },
     {
-        "boost_text": "Se il nemico attacca e questo attacco infligge danni a un personaggio, stordisci quel personaggio.",
         "code": "6029",
         "name": "Gigante di Ghiaccio",
-        "text": "Robustezza. <i>(Questo personaggio entra in gioco con 1 carta status Robusto.)</i>",
+        "text": "Robustezza. <i>(Questo personaggio entra in gioco con 1 carta status Robusto.)</i>\n<hr />[star] <b>Boost</b>: Se il nemico attacca e questo attacco infligge danni a un personaggio, stordisci quel personaggio.",
         "traits": "Gigante."
     },
     {

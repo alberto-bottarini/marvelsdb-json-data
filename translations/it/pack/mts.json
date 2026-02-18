@@ -408,18 +408,18 @@
         "traits": "Asgard. Prigioniero."
     },
     {
-        "boost_text": "<b>Potenziamento</b> Quando Fandral effettua un intervento base, ignora ogni icona crisi ([crisis]) in gioco.",
         "code": "21191",
         "flavor": "\"Anche se la vita mi è molto cara, Loki dovrà rispondere di quello che ha fatto.\"",
         "name": "Fandral",
-        "traits": "Asgard. Prigioniero."
+        "traits": "Asgard. Prigioniero.",
+        "text": "\n<hr />[star] <b>Boost</b>: <b>Potenziamento</b> Quando Fandral effettua un intervento base, ignora ogni icona crisi ([crisis]) in gioco."
     },
     {
-        "boost_text": "<b>Potenziamento</b> Gli attacchi di Hogun ottengono Perforante.",
         "code": "21192",
         "flavor": "\"Loki ha osato troppo stavolta. Bisogna farla finita.\"",
         "name": "Hogun",
-        "traits": "Asgard. Prigioniero."
+        "traits": "Asgard. Prigioniero.",
+        "text": "\n<hr />[star] <b>Boost</b>: <b>Potenziamento</b> Gli attacchi di Hogun ottengono Perforante."
     },
     {
         "code": "21193",
